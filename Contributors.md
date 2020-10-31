@@ -1,4 +1,11 @@
 ## Contributors Details
+Name: [ARYAN ANAND](https://github.com/aryan-anand-2003)<br/><br/><br/>
+Place: INDIA
+About: A Music producer by hobby.Newbie Programmer<br/>
+<br/>
+
+
+
 
 Name: [Tej Grover](https://github.com/tejgrover) <br/>
 Place: India <br/>
